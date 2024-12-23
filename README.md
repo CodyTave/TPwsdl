@@ -1,8 +1,9 @@
+
 # Compte rendu
 
-## Application
+<h3>Application</h3>
 
-### Objectifs
+<h3>Objectifs</h3>
 
 1. Créer un Web Service qui permet de :
    - Convertir un montant de l’euro en DH.
@@ -18,13 +19,13 @@
 
 ---
 
-## Développement
+<h3>Développement</h3>
 
-### Langage et Outils
+<h3>Langage et Outils</h3>
 - **Langage** : Java 23
 - **Outils de test** : ReadyAPI (nouvelle version de SOAPUI)
 
-### Étapes
+<h3>Étapes</h3>
 
 1. Le service a été implémenté en Java 23.
 2. Les tests ont été générés et exécutés avec ReadyAPI. Les résultats des tests ont été capturés et enregistrés dans le dossier de tests.
@@ -35,7 +36,7 @@
 
 ---
 
-## Dossier de Tests
+<h3>Dossier de Tests</h3>
 
 - **Dossier** : `tests`
 - Contient les résultats des tests effectués via le terminal.
@@ -43,13 +44,13 @@
 
 ---
 
-## Captures d’écran
+<h3>Captures d’écran</h3>
 
-### 1. Interface ReadyAPI
-![Capture ReadyAPI](screens/1.png)
+<h3>1. Interface ReadyAPI</h3>
+<img src="screens/1.png">
+<img src="screens/2.png">
+<img src="screens/3.png">
 
-### 2. Résultats des tests
-![Résultats Terminal](screens/2.png)
+<h3>2. Résultats des tests</h3>
+<img src="screens/4.png">
 
-### 3. Détails de l’assignment
-![Assignment](screens/3.png)
