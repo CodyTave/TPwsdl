@@ -29,7 +29,7 @@
 
 1. Le service a été implémenté en Java 23.
 2. Les tests ont été générés et exécutés avec ReadyAPI. Les résultats des tests ont été capturés et enregistrés dans le dossier de tests.
-3. Le dossier **screens** contient les captures d’écran des étapes suivies et des tests effectués. Les noms des captures sont :
+3. Le dossier **captures** contient les captures d’écran des étapes suivies et des tests effectués. Les noms des captures sont :
    - `1.png`
    - `2.png`
    - `3.png`
@@ -47,10 +47,10 @@
 <h3>Captures d’écran</h3>
 
 <h3>1. Interface ReadyAPI</h3>
-<img src="screens/1.png">
-<img src="screens/2.png">
-<img src="screens/3.png">
+<img src="captures/1.png">
+<img src="captures/2.png">
+<img src="captures/3.png">
 
 <h3>2. Résultats des tests</h3>
-<img src="screens/4.png">
+<img src="captures/4.png">
 
